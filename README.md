@@ -1,2 +1,2 @@
 # MeshBean
-A budget outdoor mesh node utilizing 2" SCH40 PVC pipe
+A budget mesh node utilizing 2" SCH40 PVC pipe
